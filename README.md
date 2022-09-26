@@ -54,7 +54,7 @@
 ```md
 # Домашнее задание №
 
-Прошу @martinkomitsky или @haseprogram проверить его.
+Прошу @martinkomitsky, @haseprogram или @vaganov-spb проверить его.
 
 Что было сделано:
 *
