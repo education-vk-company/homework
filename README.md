@@ -89,15 +89,11 @@ ___
 * Если в уже существующем PR образовался конфликт, его необходимо разрешить
 
 <details>
-  <summary>Как синхронизировать свою рабочую ветку с `master`</summary>
-  <pre>
-    <code>
-# Находясь в своей рабочей ветке
+  <summary>Как синхронизировать свою рабочую ветку с <code>master</code></summary>
+  <pre><code># Находясь в своей рабочей ветке
 git pull origin master
 # Если есть конфликты, их необходимо разрешить, потом выполнить `git commit` без каких-либо параметров
-git push origin HEAD
-    </code>
-  </pre>
+git push origin HEAD</code></pre>
 </details>
 
 
