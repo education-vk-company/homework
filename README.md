@@ -98,9 +98,11 @@ git push origin HEAD</code></pre>
 
 <details>
   <summary>Как разрешить конфликт</summary>
-  * https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
-  * https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-  * https://blog.knoldus.com/how-to-resolve-merge-conflicts-in-git-pull-request-pr/
+  <ul>
+    <li>https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line</li>
+    <li>https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git</li>
+    <li>https://blog.knoldus.com/how-to-resolve-merge-conflicts-in-git-pull-request-pr/</li>
+  </ul>
 </details>
 
 
