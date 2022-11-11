@@ -85,7 +85,7 @@ ___
 * В одном PR сдается только **одно** ДЗ
 * Каждые ДЗ, которое непосредственно относится к разработке проекта, необходимо делать в одной и той же папке. Ни в коем случае не делать отдельные папки для каждого ДЗ. Для версионирования у нас есть `git`
 * Каждое ДЗ делается в отдельной ветке, чтобы избежать возможных конфликтов при мерже
-* Каждая ветка, из которой делается PR, должна быть синхронизирована с `master`
+* Каждая ветка, из которой делается PR, должна быть синхронизирована с `master`. См. сниппет ниже
 * Если в уже существующем PR образовался конфликт, его необходимо разрешить
 
 <details>
@@ -95,6 +95,14 @@ git pull origin master
 # Если есть конфликты, их необходимо разрешить, потом выполнить `git commit` без каких-либо параметров
 git push origin HEAD</code></pre>
 </details>
+
+<details>
+  <summary>Как разрешить конфликт</summary>
+  * https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+  * https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+  * https://blog.knoldus.com/how-to-resolve-merge-conflicts-in-git-pull-request-pr/
+</details>
+
 
 
 ### 10. Критерии оценки ДЗ
