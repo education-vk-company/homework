@@ -90,12 +90,14 @@ ___
 
 <details>
   <summary>Как синхронизировать свою рабочую ветку с `master`</summary>
-  ```bash
-  # Находясь в своей рабочей ветке
-  git pull origin master
-  # Если есть конфликты, их необходимо разрешить, потом выполнить `git commit` без каких-либо параметров
-  git push origin HEAD
-  ```
+  <code>
+    <pre>
+      # Находясь в своей рабочей ветке
+      git pull origin master
+      # Если есть конфликты, их необходимо разрешить, потом выполнить `git commit` без каких-либо параметров
+      git push origin HEAD
+    </pre>
+  </code>
 </details>
 
 
