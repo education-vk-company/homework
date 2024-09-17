@@ -15,7 +15,7 @@
 
 `YYYY` - год
 
-`HALF_YEAR` - половина года. `1`, если сейчас `янв-июн`, `2`, если `июл-дек`
+`HALF_YEAR` - половина года. `1`, если сейчас месяц  `янв-июн`, `2`, если `июл-дек`
 
 `N` - первая буква имени
 
@@ -29,7 +29,7 @@
 
 ### 3. Добавляем преподавателей в коллабораторы
  * Заходим в настройки репозитория (/settings/collaboration)
- * Добавляем `martinkomitsky`, `chexex` и `priver` в collaborators
+ * Добавляем `martinkomitsky`, `haseprogram` и `kgrechin` в collaborators
 
  Нам придут приглашения, перед сдачей ДЗ нужно будет дождаться, пока мы их примем.
 
@@ -54,7 +54,7 @@
 ```md
 # Домашнее задание №
 
-Прошу @martinkomitsky @haseprogram или @kgrechin проверить его.
+Прошу @martinkomitsky, @haseprogram или @kgrechin проверить его.
 
 Что было сделано:
 *
@@ -70,6 +70,7 @@ ___
 ### 7. Сдаем ДЗ на проверку
 * После выполнения домашнего задания, создаем пулл-реквест в ветку `master`
 * Добавляем `martinkomitsky`, `haseprogram` и `kgrechin` в поле `reviewers`
+* Добавляем того, кто выдал домашнее задание (лектора конкретной лекции), a также вашего назначенного ментора из [таблицы](https://docs.google.com/spreadsheets/d/1z4i3buEEUxLCxvzkZVukBerH4Y2j66O9HC5SPYY2DkE/edit?gid=0#gid=0) в поле `assignee`
 
 ![hw pr](images/7.png)
 
