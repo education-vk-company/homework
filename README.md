@@ -69,7 +69,7 @@ ___
 
 ### 7. Сдаем ДЗ на проверку
 * После выполнения домашнего задания, создаем пулл-реквест в ветку `master`
-* Добавляем `martinkomitsky`, `haseprogram` и `kgrechin` в поле `reviewers`
+* Добавляем `martinkomitsky`, `haseprogram`, `kgrechin`, a также вашего назначенного ментора из [таблицы](https://docs.google.com/spreadsheets/d/1z4i3buEEUxLCxvzkZVukBerH4Y2j66O9HC5SPYY2DkE/edit?gid=0#gid=0) в поле `reviewers`
 * Добавляем того, кто выдал домашнее задание (лектора конкретной лекции), a также вашего назначенного ментора из [таблицы](https://docs.google.com/spreadsheets/d/1z4i3buEEUxLCxvzkZVukBerH4Y2j66O9HC5SPYY2DkE/edit?gid=0#gid=0) в поле `assignee`
 * В теме **обязательно** пишем номер ДЗ, в описании опционально пишем то, что сделано
 * Проверяем, нет ли конфликтов. Если есть, их надо исправить
